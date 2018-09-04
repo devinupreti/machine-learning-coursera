@@ -1,0 +1,13 @@
+USE for testing -> https://octave-online.net
+
+https://wiki.octave.org/Tips_and_tricks
+
+To run file ex4.m type ex4
+
+Instructor provides files and you have to edit some of those files.
+
+1. cd to the assignment directory
+2. If file is -> WarmUp.m , then type : WarmUp()
+3. submit()
+	- Enter choice for submitting
+	- Enter email and password
