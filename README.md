@@ -7,4 +7,4 @@ These are my solutions for the Machine Learning course by Prof. Andrew Ng on Cou
 All solutions are accepted  
 
 
-I found this to be a great resource for debugging -> https://octave-online.net  
+I found this to be a great resource for testing  -> https://octave-online.net  
